@@ -67,15 +67,14 @@ endmodule
 */
 
 **RTL Schematic**
-![exp 4 (i)](https://github.com/user-attachments/assets/5a233af7-07ac-4f56-9859-c65891d0ade5)
-![exp 4 (i)](https://github.com/user-attachments/assets/3393d37f-e7ad-4f07-a172-187660e3351b)
+![exp 4 i](https://github.com/user-attachments/assets/3f01b153-8f72-40e1-88f3-4a1d3307e54c)
+![exp4 ii](https://github.com/user-attachments/assets/6ea2fd8c-05c6-4753-a029-e96a7feb7b55)
 
 
 
 **Output Timing Waveform**
-![exp 4](https://github.com/user-attachments/assets/a9f896b1-da00-48b3-9d70-9e524a55be7b)
-![exp4 ii](https://github.com/user-attachments/assets/17dcfe5a-c3a5-4eda-addf-25121a2d2003)
-
+![ex4 i](https://github.com/user-attachments/assets/df9c1553-a88f-425d-bc26-61b41d3d25de)
+![ex4 ii](https://github.com/user-attachments/assets/3483c384-325e-45cd-a1db-b04547cbf3d2)
 
 **Result:**
 
