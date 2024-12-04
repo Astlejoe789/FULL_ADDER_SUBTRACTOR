@@ -39,6 +39,7 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 **Procedure**
+
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
